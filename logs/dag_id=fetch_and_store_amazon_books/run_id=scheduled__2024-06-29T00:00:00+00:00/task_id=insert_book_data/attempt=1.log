@@ -1,0 +1,2 @@
+[2024-07-08T17:25:19.798+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2024-07-08T17:25:21.970+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: fetch_and_store_amazon_books.insert_book_data scheduled__2024-06-29T00:00:00+00:00 [queued]>
